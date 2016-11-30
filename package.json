@@ -1,6 +1,6 @@
 {
   "name": "remote-static",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Express middleware to proxy-map local URLs to a remote host.",
   "main": "index.js",
   "repository": {

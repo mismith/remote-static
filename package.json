@@ -1,0 +1,28 @@
+{
+  "name": "remote-static",
+  "version": "1.0.0",
+  "description": "Express middleware to proxy-map local URLs to a remote host.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mismith/remote-static.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "fetch",
+    "proxy"
+  ],
+  "engines": {
+    "node": "^6.7.0"
+  },
+  "author": "Murray Smith <murray@mismith.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mismith/remote-static/issues"
+  },
+  "homepage": "https://github.com/mismith/remote-static#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
